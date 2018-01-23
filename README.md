@@ -1,4 +1,4 @@
-ColdCCoin (CDC)
+ColdCoin (CDC)
 ===========
 
 [![Build Status](https://travis-ci.org/RazorLove/doncoin.png?branch=master)](https://travis-ci.org/RazorLove/doncoin)
